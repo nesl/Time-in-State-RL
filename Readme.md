@@ -5,6 +5,7 @@ This folder contains the code to train models for HalfCheetah, Ant, and deeprace
 The paper proposes the Time-in- State RL approach, which includes delays and sampling rate as additional agent observations at training time to improve the robustness of Deep RL policies to the runtime timing variations.
 
 
+
 ## Code credits
 
 a) The fully connected policy training using PPO code is taken from [open AI baselines](https://github.com/openai/baselines) with modifications done to allow
@@ -51,3 +52,6 @@ b) [Gazebo and Ros](http://gazebosim.org/) for deepracer robotic car policies.
 
 ## Usage
 The training of policies, benchmarking, and visualization for each task is explained in the respective folders: 'deepracer', 'ant', 'halfcheetah', and 'halfcheetah-recurrent'.
+
+## Questions
+For any help/issue in running the code, please reachout to *sandha.iitr@gmail.com*

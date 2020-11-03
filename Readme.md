@@ -4,6 +4,9 @@ This folder contains the code to train models for HalfCheetah, Ant, and deeprace
 
 The paper proposes the Time-in- State RL approach, which includes delays and sampling rate as additional agent observations at training time to improve the robustness of Deep RL policies to the runtime timing variations.
 
+**Check out the quick demo** of the transfer of policies from simulation to a real car robot.
+
+[![TSRL Demo Video](demo.png)](https://www.youtube.com/watch?v=5PlOerNRA9k)
 
 
 ## Code credits

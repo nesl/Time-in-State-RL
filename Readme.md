@@ -6,7 +6,7 @@ The paper proposes the Time-in- State RL approach, which includes delays and sam
 
 **Check out the quick demo** of the transfer of policies from simulation to a real car robot.
 
-[![TSRL Demo Video](demo.png)](https://www.youtube.com/watch?v=5PlOerNRA9k)
+[![TSRL Demo Video](demo_pic.png)](https://www.youtube.com/watch?v=5PlOerNRA9k)
 
 
 ## Code credits

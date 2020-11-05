@@ -4,7 +4,7 @@ Code credits: The ppo training code is taken from open AI baselines with modific
 variable timing characteristics during training. The Ant environment and robot is taken from the Pybullet
 code with modifications for the variable timing characteristics.
 
-**The code in the current folder trains the fully connected policies for Time-in-State and Domain Randomization settings**
+**The code in the current folder trains the fully connected policies for Time-in-State and Domain Randomization settings.**
 
 ## Requirements
 a) Installation and setup the OpenAI baselines.

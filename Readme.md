@@ -1,6 +1,9 @@
 ## Summary
 This folder contains the code to train models for HalfCheetah, Ant, and deepracer robotic car for the paper:
-*Sim2Real Transfer for Deep Reinforcement Learning with Stochastic State Transition Delays*, CORL-2020.
+
+```
+Sim2Real Transfer for Deep Reinforcement Learning with Stochastic State Transition Delays, CoRL-2020.
+```
 
 The paper proposes the Time-in- State RL approach, which includes delays and sampling rate as additional agent observations at training time to improve the robustness of Deep RL policies to the runtime timing variations.
 

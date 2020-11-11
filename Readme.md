@@ -14,7 +14,7 @@ The paper proposes the Time-in- State RL approach, which includes delays and sam
 <table>
   <tr>
     <td> <img src="Short_Dr_video.gif" width="450"/></td>
-    <td> <img src="Short_Dr_video.gif" width="450"/></td>
+    <td> <img src="Short_TS_video.gif" width="450"/></td>
    </tr> 
 </table>
 

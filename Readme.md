@@ -17,6 +17,34 @@ The paper proposes the Time-in- State RL approach, which includes delays and sam
     <td> <img src="Short_Dr_video.gif" width="450"/></td>
     <td> <img src="Short_TS_video.gif" width="450"/></td>
    </tr> 
+   <tr>
+    <td>DR</td>
+    <td>TS</td>
+   </tr> 
+</table>
+
+### HalfCheetah at 20.6 ms latency
+<table>
+  <tr>
+    <td> <img src="Ch_DR_5x.gif" width="450"/></td>
+    <td> <img src="Ch_TS_5x.gif" width="450"/></td>
+   </tr> 
+  <tr>
+    <td>DR</td>
+    <td>TS</td>
+   </tr> 
+</table>
+
+### Ant at 20.6 ms latency
+<table>
+  <tr>
+    <td> <img src="Ant_DR_5x.gif" width="450"/></td>
+    <td> <img src="Ant_TS_5x.gif" width="450"/></td>
+   </tr> 
+  <tr>
+    <td>DR</td>
+    <td>TS</td>
+   </tr> 
 </table>
 
 </br>

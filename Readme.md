@@ -9,8 +9,9 @@ The paper proposes the Time-in- State RL approach, which includes delays and sam
 
 </br>
 
-## Domain Randomization (DR) vs Time-in-State (TS)
+## Domain randomization (DR) vs Time-in-State (TS) 
 
+### Autonomous car at 100 ms latency
 <table>
   <tr>
     <td> <img src="Short_Dr_video.gif" width="450"/></td>
@@ -22,7 +23,7 @@ The paper proposes the Time-in- State RL approach, which includes delays and sam
 </br>
 </br>
 
-## Demo Video
+## Demo video
 **Check out the quick demo** of the transfer of policies from simulation to a real car robot.
 
 [![TSRL Demo Video](demo_pic.png)](https://www.youtube.com/watch?v=5PlOerNRA9k)

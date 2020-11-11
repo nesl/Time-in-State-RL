@@ -1,5 +1,5 @@
 ## Summary
-This folder contains the code to train models for HalfCheetah, Ant, and deepracer robotic car for the paper:
+This repo contains the code to train deep reinforcement learning policies for HalfCheetah, Ant, and the 1/18th scale autonomous car (DeepRacer) for the paper:
 
 ```
 Sim2Real Transfer for Deep Reinforcement Learning with Stochastic State Transition Delays, CoRL-2020.
@@ -7,10 +7,28 @@ Sim2Real Transfer for Deep Reinforcement Learning with Stochastic State Transiti
 
 The paper proposes the Time-in- State RL approach, which includes delays and sampling rate as additional agent observations at training time to improve the robustness of Deep RL policies to the runtime timing variations.
 
+</br>
+
+## Domain Randomization (DR) vs Time-in-State (TS)
+
+<table>
+  <tr>
+    <td> <img src="Short_Dr_video.gif" width="450"/></td>
+    <td> <img src="Short_Dr_video.gif" width="450"/></td>
+   </tr> 
+</table>
+
+</br>
+</br>
+</br>
+
+## Demo Video
 **Check out the quick demo** of the transfer of policies from simulation to a real car robot.
 
 [![TSRL Demo Video](demo_pic.png)](https://www.youtube.com/watch?v=5PlOerNRA9k)
 
+
+</br>
 
 ## Code credits
 

@@ -5,7 +5,19 @@ This repo contains the code to train deep reinforcement learning policies for Ha
 Sim2Real Transfer for Deep Reinforcement Learning with Stochastic State Transition Delays, CoRL-2020.
 ```
 
-The paper proposes the Time-in- State RL approach, which includes delays and sampling rate as additional agent observations at training time to improve the robustness of Deep RL policies to the runtime timing variations.
+</br>
+
+```
+The deployment heterogeneities and runtime compute stochasticity results 
+in variable timing characteristics of sensor sampling rates and end-to-end delays from sensing to actuation. 
+Prior works have used the technique of domain randomization to enable the successful transfer of policies 
+across domains having different state transition delays. We show that variation in sampling rates and 
+policy execution time leads to degradation in Deep RL policy performance, and that domain randomization 
+is insufficient to overcome this limitation. We propose the Time-in-State RL (TS-RL) approach, which includes 
+delays and sampling rate as additional agent observations at training time to improve the robustness of Deep RL 
+policies. We demonstrate the efficacy of TSRL on HalfCheetah, Ant, and car robot in 
+simulation and on a real robot using a 1/18th scale car.
+```
 
 </br>
 

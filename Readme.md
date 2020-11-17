@@ -1,8 +1,9 @@
 ## Summary
-This repo contains the code to train deep reinforcement learning policies for HalfCheetah, Ant, and the 1/18th scale autonomous car (DeepRacer) for the paper:
+This repo contains the code to train deep reinforcement learning policies for HalfCheetah, Ant, and the 1/18th scale autonomous car (DeepRacer). 
+**[Slides](https://www.youtube.com/watch?v=rUTs2T_3A5Q&feature=emb_title)**
 
 ```
-Sim2Real Transfer for Deep Reinforcement Learning with Stochastic State Transition Delays, CoRL-2020.
+Paper: Sim2Real Transfer for Deep Reinforcement Learning with Stochastic State Transition Delays, CoRL-2020.
 ```
 
 </br>
